@@ -1,0 +1,33 @@
+
+.nominalflight_row td {
+	padding-top: 5px;
+}
+
+.nominalflight_timerow {
+
+}
+
+.nominalflight_missionrow {
+
+}
+
+.rocketpad {
+  padding-right: 5px;
+}
+
+.missiondescription {
+}
+
+.nominalflight_datecell {
+	width:58px;
+}
+
+.missiondescription p {
+	margin-top:0px;
+	margin-bottom:1px;
+	padding-top:0px;
+}
+
+.agencyrow {
+}
+
