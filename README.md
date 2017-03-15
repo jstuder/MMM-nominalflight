@@ -15,7 +15,7 @@ A module for MagicMirror2 that displays upcoming space launches.
  **Example:**
 ```
  {
-    module: 'MMM-peopleinspace',
+    module: 'MMM-nominalflight',
 	position: 'top_left', // you may choose any location
 	header: 'People in Space'
 	config: {
